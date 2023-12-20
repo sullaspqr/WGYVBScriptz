@@ -1,0 +1,17 @@
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\bin\Debug\net6.0-windows\PIZZAPROJECT.exe
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\bin\Debug\net6.0-windows\PIZZAPROJECT.deps.json
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\bin\Debug\net6.0-windows\PIZZAPROJECT.runtimeconfig.json
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\bin\Debug\net6.0-windows\PIZZAPROJECT.dll
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\bin\Debug\net6.0-windows\PIZZAPROJECT.pdb
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\obj\Debug\net6.0-windows\PIZZAPROJECT.Form1.resources
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\obj\Debug\net6.0-windows\PIZZAPROJECT.Resources.resources
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\obj\Debug\net6.0-windows\PIZZAPROJECT.vbproj.GenerateResource.cache
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\obj\Debug\net6.0-windows\PIZZAPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\obj\Debug\net6.0-windows\PIZZAPROJECT.AssemblyInfoInputs.cache
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\obj\Debug\net6.0-windows\PIZZAPROJECT.AssemblyInfo.vb
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\obj\Debug\net6.0-windows\PIZZAPROJECT.vbproj.CoreCompileInputs.cache
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\obj\Debug\net6.0-windows\PIZZAPROJECT.dll
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\obj\Debug\net6.0-windows\refint\PIZZAPROJECT.dll
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\obj\Debug\net6.0-windows\PIZZAPROJECT.pdb
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\obj\Debug\net6.0-windows\PIZZAPROJECT.genruntimeconfig.cache
+D:\NegyesiProject\PIZZAPROJECT\PIZZAPROJECT\obj\Debug\net6.0-windows\ref\PIZZAPROJECT.dll
